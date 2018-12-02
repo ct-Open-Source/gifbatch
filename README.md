@@ -1,5 +1,5 @@
 # gifbatch
-A shell script to batch convert Videos to optimized GIFs using ffmpeg
+A shell script to batch convert videos to optimized GIFs and create still images using ffmpeg
 ```
 gifbatch.sh usage:
   -i – input files ( eg. video/*.mp4)
